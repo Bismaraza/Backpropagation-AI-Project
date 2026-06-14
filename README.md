@@ -62,3 +62,47 @@ The complete research paper and documentation are available in the `paper` folde
 BS Software Engineering Student
 
 GitHub: https://github.com/Bismaraza
+
+## Installation & Usage
+
+### Prerequisites
+
+* Python 3.x
+* Jupyter Notebook
+* NumPy
+* Matplotlib
+
+### Steps to Run
+
+#### 1. Clone the repository
+
+```bash
+git clone https://github.com/Bismaraza/Backpropagation-AI-Project.git
+```
+
+#### 2. Navigate to the project folder
+
+```bash
+cd Backpropagation-AI-Project
+```
+
+#### 3. Install required libraries
+
+```bash
+pip install numpy matplotlib notebook
+```
+
+#### 4. Open Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+#### 5. Run the notebook
+
+Open the notebook file inside the `code` folder and run all cells.
+
+### Output
+
+The generated results will be available in the `results` folder.
+
