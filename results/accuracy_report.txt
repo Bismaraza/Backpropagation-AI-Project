@@ -1,0 +1,29 @@
+Backpropagation Neural Network Results
+======================================
+Dataset: sklearn digits handwritten digit dataset
+Training samples: 1437
+Testing samples: 360
+Input neurons: 64
+Hidden neurons: 32
+Output neurons: 10
+Epochs: 500
+Learning rate: 0.5
+Final test accuracy: 0.9444
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      0.97      0.99        36
+           1       0.86      0.83      0.85        36
+           2       1.00      1.00      1.00        35
+           3       1.00      1.00      1.00        37
+           4       0.90      1.00      0.95        36
+           5       0.97      1.00      0.99        37
+           6       0.97      0.97      0.97        36
+           7       0.92      0.97      0.95        36
+           8       0.90      0.80      0.85        35
+           9       0.91      0.89      0.90        36
+
+    accuracy                           0.94       360
+   macro avg       0.94      0.94      0.94       360
+weighted avg       0.94      0.94      0.94       360
